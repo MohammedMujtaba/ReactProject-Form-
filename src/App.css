@@ -1,0 +1,22 @@
+.container,
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+button.btn.dropdown-toggle.btn-light {
+  background: #fff;
+  border: 1px solid #ced4da;
+}
+
+.submit-btn {
+  position: absolute;
+  right: 0px;
+  bottom: -58px;
+}
+
+.css-155lmgu-MuiButtonBase-root-MuiMenuItem-root {
+  display: inline-flex !important
+}
